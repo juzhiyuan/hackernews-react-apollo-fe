@@ -11,7 +11,7 @@ import { WebSocketLink } from 'apollo-link-ws'
 import { getMainDefinition } from 'apollo-utilities'
 
 import './styles/index.css'
-import App from './components/App'
+import App from './App'
 import * as serviceWorker from './serviceWorker'
 import { AUTH_TOKEN } from './constants'
 
